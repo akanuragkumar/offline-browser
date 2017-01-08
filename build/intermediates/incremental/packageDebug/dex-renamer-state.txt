@@ -1,7 +1,0 @@
-#Mon Jan 02 21:09:21 IST 2017
-base.0=/home/anurag/Offline-Browser-Android-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_130f8ce3dc4d9044d9e269d5dcf9b8b28ad66caf
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/anurag/Offline-Browser-Android-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c2c4d943d878e9501f1616c31db228b77a5d3a70/classes.dex
-base.1=/home/anurag/Offline-Browser-Android-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c2c4d943d878e9501f1616c31db228b77a5d3a70
-file.0=/home/anurag/Offline-Browser-Android-App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_130f8ce3dc4d9044d9e269d5dcf9b8b28ad66caf/classes.dex
