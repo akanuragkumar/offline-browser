@@ -3,7 +3,7 @@
   <dirname property="module.app.basedir" file="${ant.file.module_app}"/>
   
   <property name="module.jdk.home.app" value="${jdk.home.android_api_22_platform_(1)}"/>
-  <property name="module.jdk.bin.app" value="${jdk.bin.android_api_22_platform_(1)}"/>
+  <property name="module.jdk.bin.app" value="${jdk.bin.android_api_22_platform_(1)}"/> 
   <property name="module.jdk.classpath.app" value="jdk.classpath.android_api_22_platform_(1)"/>
   
   <property name="compiler.args.app" value="-encoding windows-1252 -source 1.7 ${compiler.args}"/>
