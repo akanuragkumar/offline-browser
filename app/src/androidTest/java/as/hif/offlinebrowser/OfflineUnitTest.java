@@ -3,7 +3,7 @@ package as.hif.offlinebrowser;
 
 import android.content.Context;
 import android.content.Intent;
-import android.test.AndroidTestCase;
+import android.test.AndroidTestCase; 
 import android.util.Log;
 
 import junit.framework.TestCase;
