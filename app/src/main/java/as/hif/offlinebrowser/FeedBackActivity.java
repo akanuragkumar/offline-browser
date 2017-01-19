@@ -1,4 +1,4 @@
-package as.hif.offlinebrowser;
+package as.hif.offlinebrowser; 
 
 import android.content.Intent;
 import android.net.Uri;
